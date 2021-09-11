@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class StackQueqeMain {
 	public static void main(String[] args) {
-		System.out.println("Welcome to the data Structure in 'Stack and Queqe' Program!!");
+		System.out.println("Welcome on the data Structure in 'Stack and Queqe' Program!!");
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Press '1' to add element at the start  ");
 		switch (sc.nextInt()) {
